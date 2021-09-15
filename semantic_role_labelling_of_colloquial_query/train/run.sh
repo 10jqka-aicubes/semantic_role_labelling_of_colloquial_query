@@ -18,7 +18,7 @@ python bert_lstm_ner.py \
     --vocab_file=$PRETRAIN_MODEL/vocab.txt \
     --bert_config_file=$PRETRAIN_MODEL/bert_config.json \
     --init_checkpoint=$PRETRAIN_MODEL/bert_model.ckpt \
-    --max_seq_length=40   \
+    --max_seq_length=64   \
     --train_batch_size=16   \
     --learning_rate=2e-5 \
     --num_train_epochs=20 \
