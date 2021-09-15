@@ -31,7 +31,7 @@
   python -m pip install -r requirements.txt
   ```
 
-- 准备数据，从[官网](http://contest.aicubes.cn/#/detail?topicId=23)下载数据
+- 准备数据，从[官网](http://contest.aicubes.cn/#/detail?topicId=33)下载数据
 
   - 训练数据`train_res`，放在训练数据目录中
   - 预测数据`test_res` ，放在预测目录下
